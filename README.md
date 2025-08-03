@@ -12,7 +12,7 @@ A collection of famous brand logos recreated for educational and demonstration p
     - `firebase.json`: Firebase hosting configuration.
     - `.firebaserc`: Firebase project reference.
     - `.gitignore`: Standard ignores for logs, Firebase cache, and dependencies.
-  - [Live Demo](https://logo-4cef4-51095.web.app/)
+  - Live Demo: https://logo-4cef4-51095.web.app/
 
 ## Getting Started
 
