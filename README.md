@@ -10,7 +10,6 @@ Open `index.html` in any modern browser.
 
 ## Live demo
 - https://rohanraaj2.github.io/Logos/
-- https://logo-4cef4-51095.web.app/
 
 ## Notes
 - Colors approximate Microsoft brand colors.
