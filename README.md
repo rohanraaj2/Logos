@@ -1,1 +1,0 @@
-# Logos of famous brands
