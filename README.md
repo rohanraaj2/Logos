@@ -6,13 +6,15 @@ A collection of famous brand logos recreated for educational and demonstration p
 
 - **Microsoft/**
   - Contains a simple static web project that displays the Microsoft logo using HTML and CSS.
-  - Deployed using Firebase Hosting.
+  - Deployed using GitHub Pages and Firebase Hosting.
   - Main files:
     - `public/index.html`: The Microsoft logo implementation.
     - `firebase.json`: Firebase hosting configuration.
     - `.firebaserc`: Firebase project reference.
     - `.gitignore`: Standard ignores for logs, Firebase cache, and dependencies.
-  - Live Demo: https://logo-4cef4-51095.web.app/
+  - Live Demos:
+    - https://rohanraaj2.github.io/Logos/
+    - https://logo-4cef4-51095.web.app/
 
 ## Getting Started
 
