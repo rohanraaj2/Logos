@@ -13,8 +13,8 @@ A collection of famous brand logos recreated for educational and demonstration p
     - `.firebaserc`: Firebase project reference.
     - `.gitignore`: Standard ignores for logs, Firebase cache, and dependencies.
   - Live Demos:
-    - https://rohanraaj2.github.io/Logos/
     - https://logo-4cef4-51095.web.app/
+    - https://rohanraaj2.github.io/Logos/
 
 ## Getting Started
 
